@@ -1,0 +1,52 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 2358,
+ "completion_tokens": 524,
+ "seconds": 94.53,
+ "response": {
+  "title": "Northstar Shop",
+  "header": {
+   "record_name": "Haruka Sato",
+   "user_id": "user_11",
+   "account_id": "account_5762",
+   "status_badge": "Silver"
+  },
+  "fields": {
+   "Email": "haruka.s1838@zoho.com",
+   "Phone": "+81 90 7610 2507",
+   "Signup channel": "mobile_app",
+   "Market": "JP",
+   "Preferred language": "Japanese",
+   "Last contact": "24 Sep 2026 09:14 JST",
+   "Default address": "2-18-4 Kichijoji, Musashino, Tokyo 180-0004",
+   "Loyalty tier": "Silver",
+   "Support": "CS-8538 · support_9538",
+   "Member since": "12 Jan 2024"
+  },
+  "table": [
+   {
+    "Order ID": "ORD-20265762",
+    "Date": "12 Sep 2026",
+    "Item": "Ceramic coffee set",
+    "Qty": "1",
+    "Total": "JPY 8,900",
+    "Status": "Delivered · 18 Sep"
+   },
+   {
+    "Order ID": "ORD-20265518",
+    "Date": "28 Aug 2026",
+    "Item": "Travel backpack",
+    "Qty": "1",
+    "Total": "JPY 12,400",
+    "Status": "Returned · 03 Sep"
+   }
+  ],
+  "activity": [
+   "24 Sep\nCustomer replied to CS-8538",
+   "22 Sep\nSupport agent responded",
+   "18 Sep\nOrder ORD-20265762 delivered",
+   "03 Sep\nOrder ORD-20265518 returned",
+   "28 Aug\nsupport_9538 created"
+  ]
+ }
+}

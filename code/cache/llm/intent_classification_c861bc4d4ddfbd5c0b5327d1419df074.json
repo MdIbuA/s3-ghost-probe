@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 184,
+ "completion_tokens": 31,
+ "seconds": 6.77,
+ "response": {
+  "label": "DELETION",
+  "reason": "Customer explicitly requests to 'finish the deletion' because they believe previous deletion was incomplete."
+ }
+}

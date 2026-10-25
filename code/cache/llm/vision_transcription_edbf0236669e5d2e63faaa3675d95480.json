@@ -1,0 +1,112 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 2134,
+ "completion_tokens": 960,
+ "seconds": 156.44,
+ "response": {
+  "title": "Customer Download Center",
+  "header": {
+   "record_name": "Data exports",
+   "status_badge": "4 jobs"
+  },
+  "fields": {
+   "Ready": "2",
+   "Processing": "2",
+   "Created today": "1",
+   "Downloads today": "0",
+   "Export ID": [
+    "export_1261",
+    "export_1260",
+    "export_1259",
+    "export_1258"
+   ],
+   "Filename": [
+    "customer_export_1261.zip",
+    "customer_export_1260.zip",
+    "customer_export_1259.zip",
+    "customer_export_1258.zip"
+   ],
+   "Owner": [
+    "marcus.lee@northstar.shop",
+    "ingrid.dahl@outlook.com",
+    "sara.kim@northstar.shop",
+    "daniel.park@northstar.shop"
+   ],
+   "Status": [
+    "Collecting",
+    "Ready",
+    "Packaging",
+    "Ready"
+   ],
+   "Created": [
+    "20 Jun 14:18 UTC",
+    "18 Jun 06:42 UTC",
+    "17 Jun 11:03 UTC",
+    "16 Jun 09:27 UTC"
+   ],
+   "export_1260": {
+    "Owner": "ingrid.dahl@outlook.com",
+    "Created": "18 Jun 2026 06:42 UTC",
+    "Expires": "25 Jun 2026 06:42 UTC",
+    "Size": "18.4 MB",
+    "Checksum": "SHA-256 · 41ca09...",
+    "Download count": "0",
+    "Included": "Profile · Orders · Saved addresses"
+   },
+   "Activity": [
+    {
+     "date": "06:46",
+     "event": "Ready for download"
+    },
+    {
+     "date": "06:45",
+     "event": "Package created"
+    },
+    {
+     "date": "06:43",
+     "event": "Collecting customer records"
+    },
+    {
+     "date": "06:42",
+     "event": "Export requested"
+    }
+   ]
+  },
+  "table": [
+   {
+    "Export ID": "export_1261",
+    "Filename": "customer_export_1261.zip",
+    "Owner": "marcus.lee@northstar.shop",
+    "Status": "Collecting",
+    "Created": "20 Jun 14:18 UTC"
+   },
+   {
+    "Export ID": "export_1260",
+    "Filename": "customer_export_1260.zip",
+    "Owner": "ingrid.dahl@outlook.com",
+    "Status": "Ready",
+    "Created": "18 Jun 06:42 UTC"
+   },
+   {
+    "Export ID": "export_1259",
+    "Filename": "customer_export_1259.zip",
+    "Owner": "sara.kim@northstar.shop",
+    "Status": "Packaging",
+    "Created": "17 Jun 11:03 UTC"
+   },
+   {
+    "Export ID": "export_1258",
+    "Filename": "customer_export_1258.zip",
+    "Owner": "daniel.park@northstar.shop",
+    "Status": "Ready",
+    "Created": "16 Jun 09:27 UTC"
+   }
+  ],
+  "activity": [
+   "06:46 Ready for download",
+   "06:45 Package created",
+   "06:43 Collecting customer records",
+   "06:42 Export requested"
+  ]
+ }
+}

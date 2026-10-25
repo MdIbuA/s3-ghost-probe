@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 191,
+ "completion_tokens": 30,
+ "seconds": 6.81,
+ "response": {
+  "label": "DELETION",
+  "reason": "Customer explicitly states they deleted the account and is requesting verification of complete data removal."
+ }
+}

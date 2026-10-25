@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 194,
+ "completion_tokens": 37,
+ "seconds": 8.36,
+ "response": {
+  "label": "DELETION",
+  "reason": "Customer explicitly requests to begin the deletion process for their account and asks to handle copies within the scope of this deletion."
+ }
+}

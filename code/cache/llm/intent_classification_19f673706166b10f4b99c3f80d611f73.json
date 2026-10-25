@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 190,
+ "completion_tokens": 47,
+ "seconds": 8.76,
+ "response": {
+  "label": "DELETION",
+  "reason": "The customer explicitly requests 'permanent account deletion' and asks for confirmation after the process, indicating an intent to erase their account and data."
+ }
+}

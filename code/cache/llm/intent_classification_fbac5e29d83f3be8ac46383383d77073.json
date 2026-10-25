@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 188,
+ "completion_tokens": 36,
+ "seconds": 7.16,
+ "response": {
+  "label": "NON_DELETION",
+  "reason": "Customer is asking for verification of an existing deletion and clarification on account ownership, not requesting a new deletion."
+ }
+}

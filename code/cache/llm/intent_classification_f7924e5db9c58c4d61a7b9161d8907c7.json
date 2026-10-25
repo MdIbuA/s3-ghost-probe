@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 176,
+ "completion_tokens": 35,
+ "seconds": 7.25,
+ "response": {
+  "label": "NON_DELETION",
+  "reason": "Customer explicitly requests removal from marketing lists while stating they want to keep the account and receive service messages."
+ }
+}

@@ -1,0 +1,30 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "GhostProbeBucketReadOnly",
+      "Effect": "Allow",
+      "Action": [
+        "s3:ListBucketVersions",
+        "s3:GetBucketVersioning",
+        "s3:GetLifecycleConfiguration",
+        "s3:GetReplicationConfiguration",
+        "s3:GetBucketObjectLockConfiguration"
+      ],
+      "Resource": "arn:aws:s3:::YOUR-BUCKET"
+    },
+    {
+      "Sid": "GhostProbeObjectReadOnly",
+      "Effect": "Allow",
+      "Action": [
+        "s3:GetObject",
+        "s3:GetObjectVersion",
+        "s3:GetObjectTagging",
+        "s3:GetObjectVersionTagging",
+        "s3:GetObjectLegalHold",
+        "s3:GetObjectRetention"
+      ],
+      "Resource": "arn:aws:s3:::YOUR-BUCKET/*"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 189,
+ "completion_tokens": 34,
+ "seconds": 6.85,
+ "response": {
+  "label": "DELETION",
+  "reason": "Customer explicitly requests removal of remaining personal details from the internal deleted-account record, retaining only necessary references."
+ }
+}

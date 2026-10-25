@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 190,
+ "completion_tokens": 38,
+ "seconds": 7.83,
+ "response": {
+  "label": "DELETION",
+  "reason": "Customer explicitly requests removal of records under multiple email addresses and disabling integrations, which constitutes a deletion/erasure request."
+ }
+}

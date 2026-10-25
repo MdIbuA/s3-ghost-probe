@@ -1,0 +1,72 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 2246,
+ "completion_tokens": 618,
+ "seconds": 126.29,
+ "response": {
+  "title": "Pulse Analytics",
+  "header": {
+   "record_name": "Omar Darwish",
+   "user_id": "user_20",
+   "analytics_id": "analytics_7438",
+   "email": "darwish.omar@icloud.com",
+   "status_badge": "Last 90 days"
+  },
+  "fields": {
+   "Sessions": "12",
+   "Products viewed": "19",
+   "Completed orders": "2",
+   "Revenue": "USD 167.42",
+   "Mobile / Desktop": "67% / 33%",
+   "Acquisition": "Organic search",
+   "Market": "AE",
+   "Audience": "Returning shopper",
+   "Interest": "Coffee & dining",
+   "Last activity": "13 Jul 2026 14:22 UTC",
+   "First seen": "21 Apr 2026 09:14 UTC"
+  },
+  "table": [
+   {
+    "Time": "14:22",
+    "Event": "Order completed",
+    "Product / detail": "Ceramic coffee set",
+    "Value": "USD 84.21",
+    "Device": "Mobile"
+   },
+   {
+    "Time": "14:20",
+    "Event": "Checkout started",
+    "Product / detail": "2 items",
+    "Value": "USD 84.21",
+    "Device": "Mobile"
+   },
+   {
+    "Time": "14:17",
+    "Event": "Product viewed",
+    "Product / detail": "Ceramic coffee set",
+    "Value": "—",
+    "Device": "Mobile"
+   },
+   {
+    "Time": "14:16",
+    "Event": "Added to cart",
+    "Product / detail": "Ceramic coffee set",
+    "Value": "USD 42.00",
+    "Device": "Mobile"
+   },
+   {
+    "Time": "14:12",
+    "Event": "Product viewed",
+    "Product / detail": "Stoneware mug",
+    "Value": "USD 18.00",
+    "Device": "Desktop"
+   }
+  ],
+  "activity": [
+   "13 Jul\n6 events in active session",
+   "08 Jul\nOrder completed · USD 83.21",
+   "30 Jun\nProduct search · coffee set",
+   "22 Jun\nCampaign opened"
+  ]
+ }
+}

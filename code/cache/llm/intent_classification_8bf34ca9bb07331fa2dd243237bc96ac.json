@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 175,
+ "completion_tokens": 45,
+ "seconds": 9.07,
+ "response": {
+  "label": "NON_DELETION",
+  "reason": "The customer explicitly requests an email change and states they want to continue using the service, which contradicts a deletion request."
+ }
+}

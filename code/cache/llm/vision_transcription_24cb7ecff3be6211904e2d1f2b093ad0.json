@@ -1,0 +1,60 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 1593,
+ "completion_tokens": 528,
+ "seconds": 85.16,
+ "response": {
+  "title": "Audience Operations",
+  "header": {
+   "record_name": "Soo-jin Park",
+   "user_id": "marketing_001",
+   "email": "sj.park@naver.com",
+   "phone": "+82 10-5837-9451",
+   "status_badge": "Live"
+  },
+  "fields": {
+   "Market": "South Korea",
+   "Language": "Korean",
+   "Email opt-in": "Yes",
+   "SMS opt-in": "No",
+   "Last refreshed": "15 Sep 2026 23:40 UTC",
+   "Audience membership - Audience": "Returning customers — East Asia",
+   "Audience membership - Segments": "Repeat customer · Home & lifestyle · Mobile shopper",
+   "Audience membership - Preferred categories": "Desk accessories · Drinkware",
+   "Audience membership - Last campaign": "Autumn offers",
+   "Audience membership - Open rate": "32.4%",
+   "Audience membership - Click rate": "6.8%",
+   "Activity - Autumn offers": "32.4% open rate",
+   "Activity - Home & Lifestyle Picks": "28.7% open rate",
+   "Activity - Profile refreshed from live data": "Recorded"
+  },
+  "table": [
+   {
+    "Time": "23:40",
+    "Activity": "Product-category update",
+    "Detail": "Desk accessories · Drinkware"
+   },
+   {
+    "Time": "23:38",
+    "Activity": "Campaign eligibility check",
+    "Detail": "Autumn offers · Eligible"
+   },
+   {
+    "Time": "23:35",
+    "Activity": "Profile refresh",
+    "Detail": "Live profile fields updated"
+   },
+   {
+    "Time": "23:32",
+    "Activity": "Audience evaluation",
+    "Detail": "Returning customers — East Asia"
+   }
+  ],
+  "activity": [
+   "23:40",
+   "23:38",
+   "23:35",
+   "23:32"
+  ]
+ }
+}

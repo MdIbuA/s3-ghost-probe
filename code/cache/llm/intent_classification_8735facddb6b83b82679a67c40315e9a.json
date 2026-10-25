@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 186,
+ "completion_tokens": 46,
+ "seconds": 9.25,
+ "response": {
+  "label": "DELETION",
+  "reason": "The customer explicitly requests to 'erase the account' and mentions 'personal-data deletion procedure', indicating a clear intent for data deletion."
+ }
+}

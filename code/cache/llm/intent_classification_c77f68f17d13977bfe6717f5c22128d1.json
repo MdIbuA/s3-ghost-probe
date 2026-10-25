@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 183,
+ "completion_tokens": 39,
+ "seconds": 7.63,
+ "response": {
+  "label": "NON_DELETION",
+  "reason": "The customer is requesting an audit/confirmation of a past deletion status, not initiating a new deletion or data removal request."
+ }
+}

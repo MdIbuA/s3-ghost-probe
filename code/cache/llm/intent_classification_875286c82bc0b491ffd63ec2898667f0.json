@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 189,
+ "completion_tokens": 49,
+ "seconds": 8.95,
+ "response": {
+  "label": "DELETION",
+  "reason": "The customer explicitly requests to 'erase the account' and asks for confirmation after checking records, which aligns with a deletion/erasure request."
+ }
+}

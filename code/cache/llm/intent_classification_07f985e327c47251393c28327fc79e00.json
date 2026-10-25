@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 182,
+ "completion_tokens": 36,
+ "seconds": 8.1,
+ "response": {
+  "label": "DELETION",
+  "reason": "Customer explicitly requests removal of records linked to both old and current email addresses, indicating a request for data deletion."
+ }
+}

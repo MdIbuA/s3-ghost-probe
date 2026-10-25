@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 194,
+ "completion_tokens": 44,
+ "seconds": 9.24,
+ "response": {
+  "label": "DELETION",
+  "reason": "The customer explicitly requests that their account be 'erased' and asks to proceed with the identity review for this deletion."
+ }
+}

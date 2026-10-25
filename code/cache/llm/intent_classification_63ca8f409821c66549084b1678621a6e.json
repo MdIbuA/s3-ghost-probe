@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 191,
+ "completion_tokens": 28,
+ "seconds": 6.25,
+ "response": {
+  "label": "DELETION",
+  "reason": "Customer explicitly requests removal of their profile and personal details from support conversations."
+ }
+}

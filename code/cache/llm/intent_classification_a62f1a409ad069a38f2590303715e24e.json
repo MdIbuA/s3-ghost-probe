@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 192,
+ "completion_tokens": 34,
+ "seconds": 7.18,
+ "response": {
+  "label": "DELETION",
+  "reason": "Customer requests handling of remaining traces and disabling synchronization to complete a deletion process they believe was already initiated."
+ }
+}

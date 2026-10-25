@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 192,
+ "completion_tokens": 32,
+ "seconds": 6.54,
+ "response": {
+  "label": "DELETION",
+  "reason": "Customer explicitly requests to erase the account and review associated identifiers."
+ }
+}

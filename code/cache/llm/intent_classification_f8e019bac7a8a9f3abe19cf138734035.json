@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 178,
+ "completion_tokens": 31,
+ "seconds": 7.13,
+ "response": {
+  "label": "NON_DELETION",
+  "reason": "Customer requests a correction to their name while explicitly asking to keep all existing records."
+ }
+}

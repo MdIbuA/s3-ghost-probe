@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+dataset/
+upstream/
+output.csv
+code/evaluation/last_run_usage.json
+code/evaluation/*_trace.json
+code/cache/*.log

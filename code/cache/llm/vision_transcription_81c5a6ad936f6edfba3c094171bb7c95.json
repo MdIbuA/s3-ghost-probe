@@ -1,0 +1,98 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 2134,
+ "completion_tokens": 875,
+ "seconds": 142.62,
+ "response": {
+  "title": "Northstar Shop",
+  "header": {
+   "record_name": "Account events",
+   "user_id": "user_03",
+   "resource_ids": [
+    "audit_record_003",
+    "audit_record_002",
+    "audit_record_001",
+    "audit_record_006",
+    "audit_record_005",
+    "audit_record_004"
+   ],
+   "status_badge": "6 signed events"
+  },
+  "fields": {
+   "Subject filter": "user_03 · 18-26 Aug 2026 UTC",
+   "Events": "6",
+   "Categories": "5",
+   "Integrity failures": "0",
+   "Partition": "2026-Q3",
+   "event_type": "account_closure_recorded",
+   "subject": "user_03",
+   "actor": "automated account workflow",
+   "recorded_at": "2026-08-25T04:03:00Z",
+   "fingerprint": "8f0c...31ad",
+   "signature": "Valid",
+   "journal": "2026-Q3"
+  },
+  "table": [
+   {
+    "Time (UTC)": "25 Aug 04:03",
+    "Event": "Account closure recorded",
+    "Category": "Account lifecycle",
+    "Subject": "user_03",
+    "Actor": "Automated workflow",
+    "Integrity": "Valid",
+    "Reference": "audit_record_003"
+   },
+   {
+    "Time (UTC)": "25 Aug 03:21",
+    "Event": "Session revoked",
+    "Category": "Session management",
+    "Subject": "user_03",
+    "Actor": "Security system",
+    "Integrity": "Valid",
+    "Reference": "audit_record_002"
+   },
+   {
+    "Time (UTC)": "24 Aug 16:14",
+    "Event": "Recovery challenge completed",
+    "Category": "Authentication",
+    "Subject": "user_03",
+    "Actor": "User (self)",
+    "Integrity": "Valid",
+    "Reference": "audit_record_001"
+   },
+   {
+    "Time (UTC)": "22 Aug 11:27",
+    "Event": "Email change confirmed",
+    "Category": "Profile update",
+    "Subject": "user_03",
+    "Actor": "User (self)",
+    "Integrity": "Valid",
+    "Reference": "audit_record_006"
+   },
+   {
+    "Time (UTC)": "20 Aug 09:42",
+    "Event": "Login from new device",
+    "Category": "Authentication",
+    "Subject": "user_03",
+    "Actor": "User (self)",
+    "Integrity": "Valid",
+    "Reference": "audit_record_005"
+   },
+   {
+    "Time (UTC)": "18 Aug 14:05",
+    "Event": "Password changed",
+    "Category": "Authentication",
+    "Subject": "user_03",
+    "Actor": "User (self)",
+    "Integrity": "Valid",
+    "Reference": "audit_record_004"
+   }
+  ],
+  "activity": [
+   "25 Aug\nAccount closure recorded",
+   "25 Aug\nSession revoked",
+   "24 Aug\nRecovery challenge completed",
+   "22 Aug\nEmail change confirmed"
+  ]
+ }
+}

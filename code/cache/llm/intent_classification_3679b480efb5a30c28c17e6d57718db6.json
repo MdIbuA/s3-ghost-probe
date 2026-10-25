@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 188,
+ "completion_tokens": 33,
+ "seconds": 7.79,
+ "response": {
+  "label": "DELETION",
+  "reason": "Customer explicitly requests account deletion, removal of associated data (archive), and cleanup of search results."
+ }
+}

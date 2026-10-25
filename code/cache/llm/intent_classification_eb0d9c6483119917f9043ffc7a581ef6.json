@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 190,
+ "completion_tokens": 41,
+ "seconds": 7.59,
+ "response": {
+  "label": "DELETION",
+  "reason": "Customer explicitly requests removal of personal data (name, contact details) and states they no longer need the account, indicating a deletion request."
+ }
+}

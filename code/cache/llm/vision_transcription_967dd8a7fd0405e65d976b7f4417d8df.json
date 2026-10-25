@@ -1,0 +1,121 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 2246,
+ "completion_tokens": 1435,
+ "seconds": 221.77,
+ "response": {
+  "title": "Northstar Shop",
+  "header": {
+   "record_name": "BridgeOps",
+   "user_id": "B",
+   "resource_ids": [
+    "data_flow_1121"
+   ],
+   "status_badge": "Healthy"
+  },
+  "fields": {
+   "Northstar Shop / BridgeOps / Connections": "Northstar Shop / BridgeOps / Connections",
+   "Connections": "Connections",
+   "PRODUCTION · eu-west · 07 Aug 2026 08:00 UTC": "PRODUCTION · eu-west · 07 Aug 2026 08:00 UTC",
+   "12 connectors": "12 connectors",
+   "Topology": "Topology",
+   "Throughput": "Throughput",
+   "Recent deliveries": "Recent deliveries",
+   "Healthy": "Healthy",
+   "12": "12",
+   "Events / hour": "Events / hour",
+   "4,113": "4,113",
+   "Delivery p95": "Delivery p95",
+   "1.8 s": "1.8 s",
+   "Backlog": "Backlog",
+   "18": "18",
+   "Destination health": "Destination health",
+   "Updated moments ago · 4 records": "Updated moments ago · 4 records",
+   "Connector": "Connector",
+   "Destination": "Destination",
+   "Selector": "Selector",
+   "Mode": "Mode",
+   "Events/hour": "Events/hour",
+   "Last contact": "Last contact",
+   "1": "1",
+   "data_flow_1121": "data_flow_1121",
+   "customer_analytics_warehouse": "customer_analytics_warehouse",
+   "jain.aditi@gmail.com": "jain.aditi@gmail.com",
+   "Continuous": "Continuous",
+   "1,284": "1,284",
+   "07:59:42": "07:59:42",
+   "2": "2",
+   "data_flow_9846": "data_flow_9846",
+   "lucia-torres@gmail.com": "lucia-torres@gmail.com",
+   "842": "842",
+   "07:59:36": "07:59:36",
+   "3": "3",
+   "Order notifications": "Order notifications",
+   "notification_service": "notification_service",
+   "order events": "order events",
+   "650": "650",
+   "07:59:28": "07:59:28",
+   "4": "4",
+   "Delivery tracking": "Delivery tracking",
+   "logistics_warehouse": "logistics_warehouse",
+   "shipment events": "shipment events",
+   "420": "420",
+   "07:59:13": "07:59:13",
+   "Status": "Status",
+   "Owner": "Owner",
+   "Data Platform": "Data Platform",
+   "Sync mode": "Sync mode",
+   "Continuous sync": "Continuous sync",
+   "Last response": "Last response",
+   "200 OK · 1.8 s": "200 OK · 1.8 s",
+   "Activity": "Activity",
+   "124 events delivered": "124 events delivered",
+   "07:58:10": "07:58:10",
+   "checkpoint committed": "checkpoint committed",
+   "07:56:44": "07:56:44",
+   "18 events retried": "18 events retried",
+   "07:55:02": "07:55:02",
+   "destination acknowledged batch": "destination acknowledged batch"
+  },
+  "table": [
+   {
+    "Connector": "data_flow_1121",
+    "Destination": "customer_analytics_warehouse",
+    "Selector": "jain.aditi@gmail.com",
+    "Mode": "Continuous",
+    "Events/hour": "1,284",
+    "Last contact": "07:59:42"
+   },
+   {
+    "Connector": "data_flow_9846",
+    "Destination": "customer_analytics_warehouse",
+    "Selector": "lucia-torres@gmail.com",
+    "Mode": "Continuous",
+    "Events/hour": "842",
+    "Last contact": "07:59:36"
+   },
+   {
+    "Connector": "Order notifications",
+    "Destination": "notification_service",
+    "Selector": "order events",
+    "Mode": "Continuous",
+    "Events/hour": "650",
+    "Last contact": "07:59:28"
+   },
+   {
+    "Connector": "Delivery tracking",
+    "Destination": "logistics_warehouse",
+    "Selector": "shipment events",
+    "Mode": "Continuous",
+    "Events/hour": "420",
+    "Last contact": "07:59:13"
+   }
+  ],
+  "activity": [
+   "07:59:42\n124 events delivered",
+   "07:58:10\ncheckpoint committed",
+   "07:56:44\n18 events retried",
+   "07:55:02\ndestination acknowledged batch"
+  ]
+ }
+}

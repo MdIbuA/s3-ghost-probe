@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 182,
+ "completion_tokens": 34,
+ "seconds": 7.36,
+ "response": {
+  "label": "NON_DELETION",
+  "reason": "Customer explicitly states this is an information request and clarifies they are not asking for erasure."
+ }
+}

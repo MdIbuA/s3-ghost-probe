@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 193,
+ "completion_tokens": 44,
+ "seconds": 9.1,
+ "response": {
+  "label": "DELETION",
+  "reason": "The customer explicitly requests to begin the deletion process for their account and confirms that applying this request to relevant records is desired."
+ }
+}

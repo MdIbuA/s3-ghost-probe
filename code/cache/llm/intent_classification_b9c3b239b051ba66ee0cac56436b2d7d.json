@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 189,
+ "completion_tokens": 37,
+ "seconds": 8.93,
+ "response": {
+  "label": "DELETION",
+  "reason": "The customer explicitly requests deletion of their account and associated data linked to the email address."
+ }
+}

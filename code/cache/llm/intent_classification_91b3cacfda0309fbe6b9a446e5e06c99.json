@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 190,
+ "completion_tokens": 31,
+ "seconds": 6.52,
+ "response": {
+  "label": "DELETION",
+  "reason": "Customer explicitly requests to begin the deletion process and includes instructions related to data erasure."
+ }
+}

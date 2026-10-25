@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 188,
+ "completion_tokens": 39,
+ "seconds": 7.94,
+ "response": {
+  "label": "DELETION",
+  "reason": "Customer requests confirmation that their profile is deleted and records are anonymized, indicating a request to verify completion of data erasure."
+ }
+}

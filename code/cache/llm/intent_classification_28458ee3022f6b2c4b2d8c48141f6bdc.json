@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 182,
+ "completion_tokens": 28,
+ "seconds": 6.92,
+ "response": {
+  "label": "DELETION",
+  "reason": "Customer explicitly requests deletion of the remaining export file after closing their account."
+ }
+}

@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 188,
+ "completion_tokens": 29,
+ "seconds": 6.34,
+ "response": {
+  "label": "NON_DELETION",
+  "reason": "Customer is verifying a deletion they already completed, not requesting new deletion."
+ }
+}

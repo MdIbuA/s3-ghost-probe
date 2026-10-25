@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 181,
+ "completion_tokens": 29,
+ "seconds": 6.74,
+ "response": {
+  "label": "NON_DELETION",
+  "reason": "Customer requests updating contact information while explicitly asking to keep the account active."
+ }
+}

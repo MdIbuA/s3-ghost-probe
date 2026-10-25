@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 190,
+ "completion_tokens": 34,
+ "seconds": 8.27,
+ "response": {
+  "label": "DELETION",
+  "reason": "Customer reports a failed deletion attempt and explicitly requests verification of remaining data and completion of the account deletion."
+ }
+}

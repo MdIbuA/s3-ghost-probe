@@ -1,0 +1,56 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 2358,
+ "completion_tokens": 483,
+ "seconds": 82.4,
+ "response": {
+  "title": "Northstar Shop",
+  "header": {
+   "record_name": "CS-5034 · Where is my delivery?",
+   "user_id": "support_1034",
+   "resource_ids": [],
+   "status_badge": "SLA 01:42"
+  },
+  "fields": {
+   "Customer": "Kofi Agyeman",
+   "Email": "kagyeman8947@fastmail.com",
+   "Assigned": "Maya Chen",
+   "Tags": "Delivery · Tracking · Order update",
+   "Product": "Running shoes",
+   "Status": "In transit",
+   "Carrier": "SwiftShip",
+   "Tracking": "SWF-884103",
+   "Expected": "26 May 2026",
+   "Assigned agent": "Maya Chen"
+  },
+  "table": [
+   {
+    "Time": "09:12",
+    "Sender": "Kofi Agyeman",
+    "Message": "Could you let me know where my order is and when it is expected to arrive?"
+   },
+   {
+    "Time": "09:13",
+    "Sender": "Northstar Bot",
+    "Message": "We received your message and are checking the order details."
+   },
+   {
+    "Time": "09:28",
+    "Sender": "Maya Chen",
+    "Message": "The parcel reached the regional hub and is on track for delivery on 26 May."
+   },
+   {
+    "Time": "09:35",
+    "Sender": "Kofi Agyeman",
+    "Message": "Thanks for the update."
+   }
+  ],
+  "activity": [
+   "22 May\nOrder confirmed",
+   "23 May\nDispatched",
+   "24 May 07:46\nReached regional hub",
+   "24 May 08:15\nIn transit",
+   "26 May\nDelivery expected"
+  ]
+ }
+}

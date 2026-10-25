@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 196,
+ "completion_tokens": 34,
+ "seconds": 8.11,
+ "response": {
+  "label": "DELETION",
+  "reason": "Customer explicitly requests that the account associated with their address be erased and asks for review of connected identifiers."
+ }
+}

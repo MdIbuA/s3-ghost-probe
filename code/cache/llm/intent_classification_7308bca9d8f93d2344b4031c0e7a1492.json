@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 178,
+ "completion_tokens": 30,
+ "seconds": 6.81,
+ "response": {
+  "label": "NON_DELETION",
+  "reason": "Customer explicitly requests downloading data and keeping the account, which contradicts deletion."
+ }
+}

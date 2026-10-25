@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 186,
+ "completion_tokens": 37,
+ "seconds": 7.81,
+ "response": {
+  "label": "NON_DELETION",
+  "reason": "Customer is inquiring about the status of a previous deletion request, not making a new request to delete data."
+ }
+}

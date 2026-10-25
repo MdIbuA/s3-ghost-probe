@@ -1,0 +1,74 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 2134,
+ "completion_tokens": 589,
+ "seconds": 104.76,
+ "response": {
+  "title": "Customer Reference Registry",
+  "header": {
+   "record_name": "user_17",
+   "resource_ids": [
+    "eu-west"
+   ],
+   "status_badge": "Retained reference"
+  },
+  "fields": {
+   "Reference type": "Customer key",
+   "Created": "11 Jan 2024 08:42 UTC",
+   "Most recent update": "10 Mar 2026 07:18 UTC",
+   "Owner team": "Account Platform"
+  },
+  "table": [
+   {
+    "System": "Orders",
+    "Record reference": "ORD-20263245",
+    "Relationship": "Linked to customer",
+    "Created (UTC)": "11 Jan 2024 08:45",
+    "Status": "Active"
+   },
+   {
+    "System": "Support",
+    "Record reference": "CS-3245",
+    "Relationship": "Linked to customer",
+    "Created (UTC)": "14 Feb 2024 12:16",
+    "Status": "Active"
+   },
+   {
+    "System": "Support",
+    "Record reference": "CS-3378",
+    "Relationship": "Linked to customer",
+    "Created (UTC)": "03 Jun 2024 09:27",
+    "Status": "Active"
+   },
+   {
+    "System": "Finance",
+    "Record reference": "FIN-7742",
+    "Relationship": "Linked to customer",
+    "Created (UTC)": "22 Aug 2024 15:03",
+    "Status": "Active"
+   }
+  ],
+  "activity": [
+   {
+    "date": "10 Mar 2026",
+    "text": "Metadata reviewed"
+   },
+   {
+    "date": "22 Aug 2024",
+    "text": "Finance link added"
+   },
+   {
+    "date": "03 Jun 2024",
+    "text": "Support link added"
+   },
+   {
+    "date": "14 Feb 2024",
+    "text": "Support link added"
+   },
+   {
+    "date": "11 Jan 2024",
+    "text": "Reference created"
+   }
+  ]
+ }
+}

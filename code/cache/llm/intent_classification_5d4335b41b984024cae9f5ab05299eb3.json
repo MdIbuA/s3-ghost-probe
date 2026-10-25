@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 196,
+ "completion_tokens": 28,
+ "seconds": 6.84,
+ "response": {
+  "label": "DELETION",
+  "reason": "Customer explicitly requests complete deletion of the account associated with the email address."
+ }
+}

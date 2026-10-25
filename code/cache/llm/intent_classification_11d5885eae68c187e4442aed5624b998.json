@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 196,
+ "completion_tokens": 32,
+ "seconds": 6.76,
+ "response": {
+  "label": "DELETION",
+  "reason": "Customer explicitly requests deletion of the account and asks for a review of eligible data for deletion."
+ }
+}

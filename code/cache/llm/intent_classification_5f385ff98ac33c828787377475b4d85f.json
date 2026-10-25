@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 176,
+ "completion_tokens": 30,
+ "seconds": 6.86,
+ "response": {
+  "label": "NON_DELETION",
+  "reason": "Customer is requesting login reset help and explicitly instructs to keep the account."
+ }
+}

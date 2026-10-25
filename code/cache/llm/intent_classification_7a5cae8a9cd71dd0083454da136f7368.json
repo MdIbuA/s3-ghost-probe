@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 189,
+ "completion_tokens": 34,
+ "seconds": 7.43,
+ "response": {
+  "label": "DELETION",
+  "reason": "Customer explicitly requests to erase their account linked to the provided email address."
+ }
+}

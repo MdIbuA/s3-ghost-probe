@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 202,
+ "completion_tokens": 31,
+ "seconds": 7.58,
+ "response": {
+  "label": "DELETION",
+  "reason": "Customer explicitly requests permanent account deletion and verification of identifiers as part of the privacy process."
+ }
+}

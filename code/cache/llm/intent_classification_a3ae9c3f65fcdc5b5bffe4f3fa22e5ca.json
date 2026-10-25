@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 175,
+ "completion_tokens": 32,
+ "seconds": 6.93,
+ "response": {
+  "label": "DELETION",
+  "reason": "Customer explicitly requests deletion of their account and associated identity documents."
+ }
+}

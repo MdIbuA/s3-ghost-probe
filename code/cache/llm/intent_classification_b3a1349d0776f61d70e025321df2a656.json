@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 193,
+ "completion_tokens": 33,
+ "seconds": 6.66,
+ "response": {
+  "label": "DELETION",
+  "reason": "The customer explicitly requests that their account and associated data be erased."
+ }
+}

@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 184,
+ "completion_tokens": 28,
+ "seconds": 7.13,
+ "response": {
+  "label": "DELETION",
+  "reason": "Customer explicitly requests removal of remaining profile data after an attempted account deletion."
+ }
+}

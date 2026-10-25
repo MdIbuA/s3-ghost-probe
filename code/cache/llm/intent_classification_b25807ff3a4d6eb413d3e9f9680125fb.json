@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 184,
+ "completion_tokens": 34,
+ "seconds": 7.29,
+ "response": {
+  "label": "DELETION",
+  "reason": "Customer explicitly requests permanent account closure and deletion of their personal profile data."
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 2134,
+ "completion_tokens": 413,
+ "seconds": 71.34,
+ "response": {
+  "title": "Search Console",
+  "header": {
+   "record_name": "Customer Search",
+   "user_id": null,
+   "resource_ids": [
+    "customer_directory_v3",
+    "prod-eu"
+   ],
+   "status_badge": "2 hits"
+  },
+  "fields": {
+   "Executed": "01 Sep 2026 06:00:14 UTC",
+   "Latency": "184 ms",
+   "Index": "customer_directory_v3",
+   "Environment": "prod-eu",
+   "Shard total": "184 ms"
+  },
+  "table": [
+   {
+    "_id": "search_428",
+    "Display name": "Gabriel Silva",
+    "Email": "g.silva76@gmail.com",
+    "Customer reference": "user_13",
+    "Score": "9.84",
+    "Last indexed": "05:58:21 UTC"
+   },
+   {
+    "_id": "search_1874",
+    "Display name": "—",
+    "Email": "g.silva76.jr@gmail.com",
+    "Customer reference": "—",
+    "Score": "4.12",
+    "Last indexed": "05:55:03 UTC"
+   }
+  ],
+  "activity": [
+   "06:00:14 email:g.silva76@gmail.com · 2 hits",
+   "05:42:03 customer_reference:user_9842 · 1 hit",
+   "05:31:18 display_name:\"Aditi Jain\" · 1 hit"
+  ]
+ }
+}

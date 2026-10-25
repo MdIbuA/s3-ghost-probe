@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 197,
+ "completion_tokens": 44,
+ "seconds": 9.71,
+ "response": {
+  "label": "DELETION",
+  "reason": "The customer explicitly requests a 'permanent account-deletion' and asks for eligible data to be deleted or de-identified."
+ }
+}

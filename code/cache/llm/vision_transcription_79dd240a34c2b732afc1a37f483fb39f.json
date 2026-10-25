@@ -1,0 +1,95 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 2246,
+ "completion_tokens": 1383,
+ "seconds": 236.44,
+ "response": {
+  "title": "Nimbus Object Storage",
+  "header": {
+   "record_name": "northstar-customer-data",
+   "object_count": "8 objects",
+   "account_id": "Northstar Production",
+   "region_id": "eu-west-1",
+   "capture_date": "13 Feb 2026 08:00 UTC",
+   "storage_class": "All"
+  },
+  "fields": {
+   "Account": "Northstar Production",
+   "Region": "eu-west-1",
+   "Captured": "13 Feb 2026 08:00 UTC",
+   "Storage class": "Standard",
+   "Name": "customer_export-2026-02-12.zip",
+   "Size": "684 KB",
+   "Modified (UTC)": "12 Feb 21:56",
+   "Version": "v3",
+   "Content type": "application/pdf",
+   "Encryption": "AES-256",
+   "Checksum": "e71b6d...",
+   "Uploader": "support-service",
+   "Modified": "12 Feb 2026 18:42 UTC"
+  },
+  "table": [
+   {
+    "Name": "delivery_confirmation_19.pdf",
+    "Size": "684 KB",
+    "Modified (UTC)": "12 Feb 18:42",
+    "Storage class": "Standard",
+    "Version": "v3"
+   },
+   {
+    "Name": "delivery_confirmation_20.pdf",
+    "Size": "712 KB",
+    "Modified (UTC)": "11 Feb 14:17",
+    "Storage class": "Standard",
+    "Version": "v1"
+   },
+   {
+    "Name": "return_label_4821.pdf",
+    "Size": "203 KB",
+    "Modified (UTC)": "10 Feb 09:33",
+    "Storage class": "Standard",
+    "Version": "v1"
+   },
+   {
+    "Name": "return_label_4876.pdf",
+    "Size": "198 KB",
+    "Modified (UTC)": "11 Feb 16:05",
+    "Storage class": "Standard",
+    "Version": "v2"
+   },
+   {
+    "Name": "invoice_NS-10493.pdf",
+    "Size": "318 KB",
+    "Modified (UTC)": "10 Feb 11:21",
+    "Storage class": "Standard",
+    "Version": "v1"
+   },
+   {
+    "Name": "parcel_damage_7713.jpg",
+    "Size": "2.4 MB",
+    "Modified (UTC)": "12 Feb 10:08",
+    "Storage class": "Standard",
+    "Version": "v1"
+   },
+   {
+    "Name": "customer_export-2026-02-10.zip",
+    "Size": "128 MB",
+    "Modified (UTC)": "10 Feb 23:14",
+    "Storage class": "Standard",
+    "Version": "v1"
+   },
+   {
+    "Name": "customer_export-2026-02-12.zip",
+    "Size": "131 MB",
+    "Modified (UTC)": "12 Feb 21:56",
+    "Storage class": "Standard",
+    "Version": "v1"
+   }
+  ],
+  "activity": [
+   "v3\n12 Feb 18:42 · metadata update",
+   "v2\n12 Feb 18:39 · upload complete",
+   "v1\n12 Feb 18:38 · object created"
+  ]
+ }
+}

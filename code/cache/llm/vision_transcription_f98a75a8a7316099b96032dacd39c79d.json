@@ -1,0 +1,70 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 2246,
+ "completion_tokens": 661,
+ "seconds": 106.95,
+ "response": {
+  "title": "Vault Recovery Manager",
+  "header": {
+   "record_name": "Customer-platform archives",
+   "status_badge": "Healthy"
+  },
+  "fields": {
+   "Service health": "Healthy",
+   "Storage growth": "+12.4%",
+   "Restore success": "99.6%",
+   "Stored": "1.35 PB",
+   "Account": "areed1433@gmail.com",
+   "Path": "s3://northstar-backups/customer-platform/weekly/segment-42-20260426.tar.zst",
+   "Region": "eu-west-1",
+   "Created": "26 Apr 2026 02:00 UTC",
+   "Encryption": "AES-256",
+   "Checksum": "Verified",
+   "Last drill": "29 Mar 2026",
+   "Retention end": "26 Jul 2026"
+  },
+  "table": [
+   {
+    "Archive ID": "backup_9291",
+    "Account": "bluepeakco@outlook.com",
+    "Region": "ap-southeast-1",
+    "Created": "26 Apr 02:00",
+    "Size": "102.3 GB",
+    "Encryption": "AES-256",
+    "Tier": "Archive"
+   },
+   {
+    "Archive ID": "backup_9288",
+    "Account": "miller.logistics@company.com",
+    "Region": "us-west-2",
+    "Created": "26 Apr 02:00",
+    "Size": "67.1 GB",
+    "Encryption": "AES-256",
+    "Tier": "Archive"
+   },
+   {
+    "Archive ID": "backup_9287",
+    "Account": "areed1433@gmail.com",
+    "Region": "eu-west-1",
+    "Created": "26 Apr 02:00",
+    "Size": "84.7 GB",
+    "Encryption": "AES-256",
+    "Tier": "Archive"
+   },
+   {
+    "Archive ID": "backup_9286",
+    "Account": "summit-retail@company.com",
+    "Region": "us-east-1",
+    "Created": "26 Apr 02:00",
+    "Size": "91.4 GB",
+    "Encryption": "AES-256",
+    "Tier": "Archive"
+   }
+  ],
+  "activity": [
+   "backup_9286 restored · Completed",
+   "backup_9281 restored · Completed",
+   "checksum verification · Completed"
+  ]
+ }
+}

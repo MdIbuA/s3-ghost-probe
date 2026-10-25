@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 183,
+ "completion_tokens": 35,
+ "seconds": 7.53,
+ "response": {
+  "label": "DELETION",
+  "reason": "Customer requests removal of their profile from search results, which implies erasing personal data associated with the account."
+ }
+}

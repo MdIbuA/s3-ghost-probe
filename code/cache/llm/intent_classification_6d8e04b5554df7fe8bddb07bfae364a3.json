@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 181,
+ "completion_tokens": 30,
+ "seconds": 6.94,
+ "response": {
+  "label": "NON_DELETION",
+  "reason": "Customer explicitly requests to keep the account and only wants to stop promotional emails."
+ }
+}

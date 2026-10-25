@@ -1,0 +1,10 @@
+{
+ "model": "qwen3.5:latest",
+ "prompt_tokens": 180,
+ "completion_tokens": 37,
+ "seconds": 7.96,
+ "response": {
+  "label": "NON_DELETION",
+  "reason": "Customer explicitly requests a data export (copy of invoices) and asks to keep their profile and purchase history intact."
+ }
+}
