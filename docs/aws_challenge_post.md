@@ -38,4 +38,4 @@ Claude chose on its own to call `audit_request`, then `s3_ghost_probe`, and repo
 ## Why it matters
 Privacy laws give people a right to erasure, and versioned buckets quietly break it. This turns "we think it's gone" into "we checked every version."
 
-Demo: https://drive.google.com/file/d/15hkWzt9d4iPxLSWxMiDmxKhChqo2gQiH/view · Code: [link]
+Demo: https://drive.google.com/file/d/15hkWzt9d4iPxLSWxMiDmxKhChqo2gQiH/view · Code: https://github.com/MdIbuA/s3-ghost-probe

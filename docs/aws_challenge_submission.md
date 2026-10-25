@@ -166,7 +166,8 @@ into "we checked every version, and here's the proof."
 ## Try it yourself
 
 ```bash
-pip install boto3 "strands-agents[anthropic]" pymupdf
+git clone https://github.com/MdIbuA/s3-ghost-probe.git && cd s3-ghost-probe   # dataset: see README
+pip install -r code/requirements.txt
 python code/demo/seed_s3_demo.py                               # private, versioned demo bucket
 python code/live_audit.py --case case_25                       # before
 python code/live_audit.py --case case_25 --s3-bucket <bucket>  # after
@@ -174,6 +175,6 @@ python code/strands_agent.py --model anthropic "Was case_25 really deleted? Buck
 python code/demo/seed_s3_demo.py --teardown                    # clean up
 ```
 
-**Demo video:** [link]  ·  **Code:** [link]
+**Demo video:** https://drive.google.com/file/d/15hkWzt9d4iPxLSWxMiDmxKhChqo2gQiH/view  ·  **Code:** https://github.com/MdIbuA/s3-ghost-probe
 
 *Built with Amazon S3, the Strands Agents SDK and Claude.*
